@@ -1,6 +1,6 @@
 # List for **joevess/IPTV home**
 
-> M3U: [j_home.m3u](./j_home.m3u ), TXT: [j_home.txt](./txt/j_home.txt )
+> M3U: [j_main_home.m3u](./j_main_home.m3u ), TXT: [j_main_home.txt](./txt/j_main_home.txt )
 
 ## 频道详情
 
@@ -61,7 +61,7 @@
 | 53 | CETV3中国教育电视台三套 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv3/bjdm.m3u8> |
 | 54 | CETV4空中课堂频道 | hwylivehd.centv.cn | <http://hwylivehd.centv.cn/cetv4/zjpd.m3u8> |
 
-Updated at **7/12/2024 9:11:46 AM**
+Updated at **7/12/2024 10:15:01 AM**
 
 ## 使用说明
 
