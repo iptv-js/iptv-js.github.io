@@ -143,7 +143,7 @@
 | 135 | CGTN西语 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2> |
 | 136 | CGTN阿语 | CGTN | <http://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **7/14/2024 11:16:00 AM**
+Updated at **7/15/2024 9:14:53 AM**
 
 ## 使用说明
 
