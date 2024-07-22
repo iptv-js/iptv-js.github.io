@@ -12,7 +12,7 @@
 | ------- | --- | ---- | ----- | ---------- |
 | adultiptv.net | [adultiptv_chs.m3u](./adultiptv_chs.m3u ) <br> [adultiptv_chs.txt](./txt/adultiptv_chs.txt ) | [List for adultiptv.net](./list/adultiptv_chs.list ) | 25 | - |
 | adultiptv.net | [adultiptv_all.m3u](./adultiptv_all.m3u ) <br> [adultiptv_all.txt](./txt/adultiptv_all.txt ) | [List for adultiptv.net](./list/adultiptv_all.list ) | 25 | - |
-| vbskycn/iptv | [vbskycn_ipv4.m3u](./vbskycn_ipv4.m3u ) <br> [vbskycn_ipv4.txt](./txt/vbskycn_ipv4.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv4.list ) | 67 | - |
+| vbskycn/iptv | [vbskycn_ipv4.m3u](./vbskycn_ipv4.m3u ) <br> [vbskycn_ipv4.txt](./txt/vbskycn_ipv4.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv4.list ) | 60 | - |
 | vbskycn/iptv | [vbskycn_ipv6.m3u](./vbskycn_ipv6.m3u ) <br> [vbskycn_ipv6.txt](./txt/vbskycn_ipv6.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv6.list ) | 153 | - |
 | hujingguang/ChinaIPTV | [hujingguang_cnTV_AutoUpdate.m3u](./hujingguang_cnTV_AutoUpdate.m3u ) <br> [hujingguang_cnTV_AutoUpdate.txt](./txt/hujingguang_cnTV_AutoUpdate.txt ) | [List for hujingguang/ChinaIPTV](./list/hujingguang_cnTV_AutoUpdate.list ) | 92 | - |
 | fanmingming/live demo | [fmml_demo.m3u](./fmml_demo.m3u ) <br> [fmml_demo.txt](./txt/fmml_demo.txt ) | [List for fanmingming/live demo](./list/fmml_demo.list ) | 0 | - |
@@ -51,10 +51,10 @@
 | 北京联通 组播列表 | [q_bj_iptv_unicom_m.m3u](./q_bj_iptv_unicom_m.m3u ) <br> [q_bj_iptv_unicom_m.txt](./txt/q_bj_iptv_unicom_m.txt ) | [List for 北京联通 组播列表](./list/q_bj_iptv_unicom_m.list ) | 138 | - |
 | 北京移动 单播列表 | [q_bj_iptv_mobile.m3u](./q_bj_iptv_mobile.m3u ) <br> [q_bj_iptv_mobile.txt](./txt/q_bj_iptv_mobile.txt ) | [List for 北京移动 单播列表](./list/q_bj_iptv_mobile.list ) | 153 | - |
 | 北京移动 组播列表 | [q_bj_iptv_mobile_m.m3u](./q_bj_iptv_mobile_m.m3u ) <br> [q_bj_iptv_mobile_m.txt](./txt/q_bj_iptv_mobile_m.txt ) | [List for 北京移动 组播列表](./list/q_bj_iptv_mobile_m.list ) | 137 | - |
-| 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 468 | - |
-| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 90 | - |
+| 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 412 | - |
+| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 92 | - |
 
- > Updated at **7/21/2024 9:18:19 AM**
+ > Updated at **7/22/2024 9:15:23 AM**
 
 ## 📚 EPG 节目单
 
@@ -65,7 +65,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | update failed |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | update failed |
 
- > Updated at **7/21/2024 9:18:19 AM**
+ > Updated at **7/22/2024 9:15:23 AM**
 
 ## 🚀Github 文件加速
 
