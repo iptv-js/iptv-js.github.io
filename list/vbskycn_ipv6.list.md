@@ -160,7 +160,7 @@
 | 152 | 凤凰资讯 | IPv4 直链 | <http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8> |
 | 153 | 凤凰香港 | IPv4 直链 | <http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8> |
 
-Updated at **7/24/2024 9:13:50 AM**
+Updated at **7/25/2024 9:13:14 AM**
 
 ## 使用说明
 
